@@ -200,7 +200,7 @@ Constructed using:
 
 ## 📎 References & Appendices
 
-- 📄 Dataset: [Video Game Sales - Kaggle](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings)  
+- 📄 Dataset: [Video Game Sales - Kaggle](https://www.kaggle.com/datasets/willianoliveiragibin/video-game-sales-analyze)  
 - 💻 Tool: Microsoft Excel 365  
 - 🛠️ Features: Pivot Tables, Charts, VLOOKUP, Filters, Slicers  
 
